@@ -3,3 +3,5 @@
 # NextPermissions
 
 Simple permission internal system for Minestom extensions.
+
+Archived use the [new version merged with CityStom and NextLib](https://github.com/LabMCGames/NextLib)
