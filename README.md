@@ -4,4 +4,6 @@
 
 Simple permission internal system for Minestom extensions.
 
-Archived use the [new version merged with CityStom and NextLib](https://github.com/LabMCGames/NextLib)
+Archived, use the [new version](https://github.com/Hypejet/HypeStom-Kt)
+
+This repository was first archived Jan 8, 2023
